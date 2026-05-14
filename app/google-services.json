@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660847059394",
+    "project_id": "nimma-guru-education",
+    "storage_bucket": "nimma-guru-education.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660847059394:android:5efc050887f16c4917b65b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAKppQ7b_zcKhYHHIY3V2tRhBApFw4JfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ನಿಮ್ಮ-ಗುರು</string>
+    <string name="home_title">ನಿಮ್ಮ-ಗುರು</string>
+    <string name="wall_of_fame">ಖ್ಯಾತನಾಮರ ಪಟ್ಟಿ</string>
+    <string name="find_guru">ಗುರುಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="class_calendar">ತರಗತಿ ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="my_profile">ನನ್ನ ಗುರು ಪ್ರೊಫೈಲ್</string>
+    <string name="search_hint">ಹಳ್ಳಿ ಅಥವಾ ಬೀದಿಯ ಮೂಲಕ ಹುಡುಕಿ...</string>
+    <string name="skills_label">ಕೌಶಲಗಳು</string>
+    <string name="available_hours">ಲಭ್ಯವಿರುವ ಸಮಯ</string>
+    <string name="location_label">ಸ್ಥಳ</string>
+    <string name="thank_you_notes">ಧನ್ಯವಾದ ಪತ್ರಗಳು</string>
+    <string name="post_thank_you">ಧನ್ಯವಾದ ತಿಳಿಸಿ</string>
+    <string name="save_profile">ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+    <string name="edit_profile">ಪ್ರೊಫೈಲ್ ಎಡಿಟ್ ಮಾಡಿ</string>
+    <string name="math">ಗಣಿತ</string>
+    <string name="science">ವಿಜ್ಞಾನ</string>
+    <string name="carpentry">ಬಡಗಿ ಕೆಲಸ</string>
+    <string name="english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="upcoming_sessions">ಸಮುದಾಯ ಭವನದಲ್ಲಿ ನಡೆಯಲಿರುವ ತರಗತಿಗಳು</string>
+    <string name="no_sessions">ಯಾವುದೇ ತರಗತಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="thank_you_hint">ಧನ್ಯವಾದ ಪತ್ರ ಬರೆಯಿರಿ...</string>
+    <string name="submit">ಸಲ್ಲಿಸಿ</string>
+</resources>

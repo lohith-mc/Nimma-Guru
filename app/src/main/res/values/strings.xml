@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Nimma-Guru</string>
+    <string name="home_title">Nimma-Guru</string>
+    <string name="wall_of_fame">Wall of Fame</string>
+    <string name="find_guru">Find a Guru</string>
+    <string name="class_calendar">Class Calendar</string>
+    <string name="my_profile">My Guru Profile</string>
+    <string name="search_hint">Search by village or street...</string>
+    <string name="skills_label">Skills</string>
+    <string name="available_hours">Available Hours</string>
+    <string name="location_label">Location</string>
+    <string name="thank_you_notes">Thank You Notes</string>
+    <string name="post_thank_you">Post a Thank You</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="math">Math</string>
+    <string name="science">Science</string>
+    <string name="carpentry">Carpentry</string>
+    <string name="english">English</string>
+    <string name="upcoming_sessions">Upcoming Sessions at Samudaya Bhavana</string>
+    <string name="no_sessions">No upcoming sessions found.</string>
+    <string name="thank_you_hint">Write a thank you note...</string>
+    <string name="submit">Submit</string>
+</resources>
